@@ -14,7 +14,7 @@ metadata:
   name: fgtest-secrets
 type: Opaque
 data:
-  APIKEY: QzIyN1dEOVczTFVWS1ZWOQ==  # Base64 encoded value of C227WD9W3LUVKVV9
+  APIKEY: <change me>  # Base64 encoded value of secret API key
 ---
 apiVersion: apps/v1
 kind: Deployment
