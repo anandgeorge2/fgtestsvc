@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+prometheus_client
+structlog
+cachetools
+tenacity
+httpx
+python-json-logger
+aiohttp
