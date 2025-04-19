@@ -43,7 +43,7 @@ spec:
     spec:
       containers:
       - name: fgtest
-        image: fgtest:v1.0.0-20250418
+        image: anandgeorge2/fgtest1:v1
         imagePullPolicy: IfNotPresent
         ports:
         - containerPort: 8000
